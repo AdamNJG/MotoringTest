@@ -1,0 +1,15 @@
+C:\Users\adamg\MotoringTest\MotoringTest\MotoringTest\bin\Debug\net6.0\MotoringTest.exe
+C:\Users\adamg\MotoringTest\MotoringTest\MotoringTest\bin\Debug\net6.0\MotoringTest.deps.json
+C:\Users\adamg\MotoringTest\MotoringTest\MotoringTest\bin\Debug\net6.0\MotoringTest.runtimeconfig.json
+C:\Users\adamg\MotoringTest\MotoringTest\MotoringTest\bin\Debug\net6.0\MotoringTest.dll
+C:\Users\adamg\MotoringTest\MotoringTest\MotoringTest\bin\Debug\net6.0\MotoringTest.pdb
+C:\Users\adamg\MotoringTest\MotoringTest\MotoringTest\obj\Debug\net6.0\MotoringTest.csproj.AssemblyReference.cache
+C:\Users\adamg\MotoringTest\MotoringTest\MotoringTest\obj\Debug\net6.0\MotoringTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adamg\MotoringTest\MotoringTest\MotoringTest\obj\Debug\net6.0\MotoringTest.AssemblyInfoInputs.cache
+C:\Users\adamg\MotoringTest\MotoringTest\MotoringTest\obj\Debug\net6.0\MotoringTest.AssemblyInfo.cs
+C:\Users\adamg\MotoringTest\MotoringTest\MotoringTest\obj\Debug\net6.0\MotoringTest.csproj.CoreCompileInputs.cache
+C:\Users\adamg\MotoringTest\MotoringTest\MotoringTest\obj\Debug\net6.0\MotoringTest.dll
+C:\Users\adamg\MotoringTest\MotoringTest\MotoringTest\obj\Debug\net6.0\refint\MotoringTest.dll
+C:\Users\adamg\MotoringTest\MotoringTest\MotoringTest\obj\Debug\net6.0\MotoringTest.pdb
+C:\Users\adamg\MotoringTest\MotoringTest\MotoringTest\obj\Debug\net6.0\MotoringTest.genruntimeconfig.cache
+C:\Users\adamg\MotoringTest\MotoringTest\MotoringTest\obj\Debug\net6.0\ref\MotoringTest.dll
